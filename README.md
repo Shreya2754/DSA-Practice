@@ -19,4 +19,16 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreya2754/DSA-Practice/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
