@@ -15,6 +15,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0125-valid-palindrome](https://github.com/Shreya2754/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shreya2754/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Stack
 |  |
 | ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shreya2754/DSA-Practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
