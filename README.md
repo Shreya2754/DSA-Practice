@@ -36,6 +36,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
