@@ -32,6 +32,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,4 +63,9 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
