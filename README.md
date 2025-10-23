@@ -39,6 +39,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya2754/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shreya2754/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -97,6 +100,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -106,4 +110,8 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya2754/DSA-Practice/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
