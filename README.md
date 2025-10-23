@@ -24,6 +24,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | ------- |
 | [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreya2754/DSA-Practice/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/Shreya2754/DSA-Practice/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/Shreya2754/DSA-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -61,6 +63,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Shreya2754/DSA-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -80,5 +83,14 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Shreya2754/DSA-Practice/tree/master/0792-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
