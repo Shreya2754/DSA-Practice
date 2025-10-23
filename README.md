@@ -22,6 +22,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreya2754/DSA-Practice/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -30,6 +31,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +64,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 ## Binary Search
