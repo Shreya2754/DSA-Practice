@@ -7,6 +7,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya2754/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreya2754/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Shreya2754/DSA-Practice/tree/master/0443-string-compression) |
@@ -34,6 +35,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya2754/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0054-spiral-matrix) |
