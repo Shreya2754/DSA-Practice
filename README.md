@@ -17,6 +17,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shreya2754/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Shreya2754/DSA-Practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Shreya2754/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -78,6 +79,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -109,6 +111,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
