@@ -53,6 +53,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/Shreya2754/DSA-Practice/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/Shreya2754/DSA-Practice/tree/master/1319-unique-number-of-occurrences) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0053-maximum-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya2754/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Shreya2754/DSA-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Stack
 |  |
 | ------- |
