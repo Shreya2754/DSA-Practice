@@ -27,6 +27,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shreya2754/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Shreya2754/DSA-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shreya2754/DSA-Practice/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
