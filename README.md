@@ -10,6 +10,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreya2754/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shreya2754/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Shreya2754/DSA-Practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
 ## String
@@ -50,6 +51,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0238-product-of-array-except-self](https://github.com/Shreya2754/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shreya2754/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/Shreya2754/DSA-Practice/tree/master/0792-binary-search) |
 | [1319-unique-number-of-occurrences](https://github.com/Shreya2754/DSA-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -83,6 +85,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shreya2754/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Shreya2754/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Shreya2754/DSA-Practice/tree/master/1319-unique-number-of-occurrences) |
@@ -103,6 +106,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0074-search-a-2d-matrix](https://github.com/Shreya2754/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreya2754/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shreya2754/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Shreya2754/DSA-Practice/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -115,6 +119,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 | [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shreya2754/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
