@@ -39,6 +39,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shreya2754/DSA-Practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shreya2754/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shreya2754/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreya2754/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -84,6 +85,7 @@ Collection of Data Structures and Algorithms problems I solve during practice.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shreya2754/DSA-Practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shreya2754/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shreya2754/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreya2754/DSA-Practice/tree/master/0268-missing-number) |
